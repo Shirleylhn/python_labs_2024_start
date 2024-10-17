@@ -1,0 +1,1 @@
+{"students": [{"id": 1, "name": "John Doe", "age": 20, "grades": [{"math": 90, "science": 80}]}, {"id": 2, "name": "Jane Doe", "age": 21, "grades": [{"math": 70, "science": 85}]}, {"id": 3, "name": "Amily", "age": 30, "grades": {"math": 90, "science": 80}}]}
